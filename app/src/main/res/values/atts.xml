@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ZFXView">
+        <attr name="centerx" format="integer"></attr>
+        <attr name="pintx" format="integer"></attr>
+        <attr name="text" format="string"></attr>
+        <attr name="centercolor" format="color"></attr>
+        <attr name="textsize" format="integer"></attr>
+    </declare-styleable>
+</resources>
