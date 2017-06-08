@@ -83,9 +83,7 @@ public class SecondActivity extends AppCompatActivity {
                 handler.sendMessage(message);
             }
         });
-
     }
-
     private void initView() {
         rcl = (RecyclerView) findViewById(R.id.rcl);
         dingwei = (TextView) findViewById(R.id.dingwei);
